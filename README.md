@@ -11,26 +11,6 @@ macOS & Jamf engineer focused on enterprise device management, automation, and b
 
 ---
 
-### Featured Project
-
-#### [Nexus — Jamf EA Dependency Analyzer](https://github.com/MUMO97/nexus)
-
-> Know exactly which Extension Attributes are safe to delete — before you touch anything.
-
-Native macOS app that connects to Jamf Pro and maps every Extension Attribute dependency across **9 object types** — Smart Groups, Advanced Searches, Policies, Config Profiles, Restricted Software, Patch Policies, and all three mobile equivalents.
-
-**What it does:**
-- Scans 200+ EAs in parallel and classifies each as Safe / In Use / Orphaned
-- Shows a visual dependency graph per EA with script preview
-- Bulk delete with in-use warnings and export-before-delete safety prompt
-- Generates a professional HTML cleanup report for Confluence
-- Covers both Computer and Mobile Device Extension Attributes
-- Scan result caching — instant UI on reconnect
-
-Built in SwiftUI. Free to use for Mac Admins.
-
----
-
 ### Focus areas
 
 - Enterprise macOS management at scale
